@@ -36,3 +36,7 @@ node_modules
 
 # Custom
 bower_components
+.DS_Store
+dist
+.tmp
+*.swp
